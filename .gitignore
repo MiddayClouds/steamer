@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# OSX cache
+.DS_Store
+
+# Project Files
+config.js
+package-lock.json
