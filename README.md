@@ -22,4 +22,4 @@ Steamer only has one command, `info`. When this command is executed it will show
 - 4. Push to the branch: `git push origin my-new-feature`
 - 5. Submit a pull request with your new stuff.
 
-<h6 align="center">  © Midday 2020 | <a href="">Licenses</a> </h6>
+<h6 align="center">  © Midday 2020 | <a href="https://github.com/MiddayClouds/Steamer/tree/master/LICENSES">Licenses</a> </h6>
