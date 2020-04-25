@@ -1,4 +1,4 @@
-<h1 align="center"> Steamer </h1>
+<h1 align="center">Steamer</h1>
 <p align="center">
     <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - JavaScript Style Guide"></a>
     <a href="https://discordapp.com/oauth2/authorize?&client_id=703229978774339634&scope=bot&permissions=1878522945"><img src="https://img.shields.io/badge/Discord-Add%20Bot-7289DA.svg" /></a>
@@ -26,7 +26,7 @@ Steamer only has quite a few commands, so here is a list:
     > Example:
     > ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-## Contributing
+## Contributing:
 - 1. Fork it!
 - 2. Create your feature branch: `git checkout -b my-new-feature`
 - 3. Commit your changes: `git commit -m 'Add some feature'`
