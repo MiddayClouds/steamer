@@ -2,10 +2,11 @@
 <p align="center">
     <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - JavaScript Style Guide"></a>
     <a href=""><img src="https://img.shields.io/badge/Discord-Add%20Bot-7289DA.svg" /></a>
+    <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FMiddayClouds%2FSteamer?ref=badge_small" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FMiddayClouds%2FSteamer.svg?type=small"/></a>
 </p>
 
-Steamer is discord bot that provides updates on the steam api and if anything is down. The changelog can be found [here](https://github.com/MiddayClouds/Steamer/releases).
-> Steamer runs on <a href="">discord.js</a> is based off these bots:
+Steamer is discord bot that provides information from the steam APIs. The changelog can be found [here](https://github.com/MiddayClouds/Steamer/releases).
+> Steamer runs on <a href="">discord.js</a> and is based off these bots:
 > - <a href="https://gist.github.com/eslachance/3349734a98d30011bb202f47342601d3">The Perfect Lil' Bot</a>
 > - <a href="https://github.com/julianYaman/wikipedia-bot">Wikipedia-Bot</a>
 > - <a href="https://github.com/MiddayClouds/pal">Pal</a>
