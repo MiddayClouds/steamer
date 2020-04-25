@@ -203,7 +203,10 @@ client.on('message', async message => {
 	if (!client.commands.has(command)) return;
 
 	try {
+		message.react('703635736603262997');
 		client.commands.get(command).execute(message, args, { PREFIX, VERSION, STEAMAPI });
+		//message.delete()
+		//message.reactions.get('703635736603262997').remove().catch(error => console.error('Failed to remove reactions: ', error));
 	}
 	catch (error) {
 		console.error(error);
