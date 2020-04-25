@@ -9,8 +9,8 @@ const SteamAPI = require('steamapi');
  * */
 
 module.exports = {
-	name: 'NAME',
-	description: 'DESCRIPTION',
+	name: 'id',
+	description: 'fetches a users id ',
 	execute(message, args, config) {
     // Creating steam connection
     const steam = new SteamAPI(config.STEAMAPI);
@@ -29,7 +29,9 @@ module.exports = {
 			Logger.info(`${config.PREFIX + this.name} used on ${message.guild.name} (${message.guild.id}; ${message.guild.memberCount} users)`)
 		}
 
-    // Put command here...
+    steam.resolve('https://steamcommunity.com/id/' + argument).then(id =>
+    console.log(id)
+  )
 
 	},
 }

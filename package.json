@@ -1,0 +1,27 @@
+{
+  "name": "steamer",
+  "version": "0.1.0",
+  "description": "A discord bot that provides information from the steam API.",
+  "main": "bot.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiddayClouds/Steamer.git"
+  },
+  "keywords": [
+    "discord",
+    "discordjs",
+    "steamapi"
+  ],
+  "author": "Midday",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiddayClouds/Steamer/issues"
+  },
+  "homepage": "https://github.com/MiddayClouds/Steamer#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "date-time": "^3.1.0",
+    "discord.js": "^12.0.2",
+    "steamapi": "^2.0.7"
+  }
+}
