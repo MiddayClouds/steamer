@@ -10,10 +10,20 @@ Steamer is discord bot that provides updates on the steam api and if anything is
 > - <a href="https://github.com/julianYaman/wikipedia-bot">Wikipedia-Bot</a>
 > - <a href="https://github.com/MiddayClouds/pal">Pal</a>
 
-## How does it work?:
-Steamer only has one command, `info`. When this command is executed it will show you a list of steam APIs and will flag if any are offline or are encountering errors.
-> Example:
-> ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+## How does it work?
+Steamer only has quite a few commands, so here is a list:
+
+- ### steam!user (steam64id)
+    __Description:__ Will output a bunch of information from a person's steam profile.
+    
+    > Example:
+    > ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+   
+- ### steam!id (userlink)
+    __Description:__ Will output the steam 64 ID fro a person's steam profile.
+    
+    > Example:
+    > ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ## Contributing
 - 1. Fork it!
