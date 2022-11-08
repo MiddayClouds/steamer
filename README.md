@@ -12,19 +12,13 @@ Steamer is discord bot that provides information from the steam APIs. The change
 > - <a href="https://github.com/MiddayClouds/pal">Pal</a>
 
 ## How does it work?
-Steamer only has quite a few commands, so here is a list:
+Steamer only has a few commands, so here is a list:
 
 - ### steam!user (steam64id)
     __Description:__ Will output a bunch of information from a person's steam profile.
-    
-    > Example:
-    > ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
    
 - ### steam!id (userlink)
     __Description:__ Will output the steam 64 ID fro a person's steam profile.
-    
-    > Example:
-    > ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ## Contributing:
 - 1. Fork it!
